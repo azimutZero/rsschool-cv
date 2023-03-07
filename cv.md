@@ -44,3 +44,23 @@ Bachelor's degree, systems and networks
 (2010 - 2014)
 * BELHARD. Manual Software testing (course)
 * IT-Academy. Computer Science (course)
+
+---
+### Code Example:
+```
+function multiply(a, b){
+  return a * b
+}
+
+function getParticipants(handshakes){
+  let farmers = 0;
+  for (let i = handshakes; i >= 1; i = i-farmers++) {
+  }
+  return farmers;
+}
+
+function explode(s) {
+  
+  return "";
+}
+```
