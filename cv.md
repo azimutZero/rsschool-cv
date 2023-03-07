@@ -49,18 +49,24 @@ Bachelor's degree, systems and networks
 ### Code Example:
 ```
 function multiply(a, b){
-  return a * b
+    return a * b
 }
 
 function getParticipants(handshakes){
-  let farmers = 0;
-  for (let i = handshakes; i >= 1; i = i-farmers++) {
-  }
-  return farmers;
+    let farmers = 0;
+    for (let i = handshakes; i >= 1; i = i-farmers) {
+        farmers++;
+    }
+    return farmers;
 }
 
 function explode(s) {
-  
-  return "";
+    let newString = '';
+    for (let char of s){
+        for (let i = 0; i < char; i++) {
+            newString += char;
+        }
+    }
+    return newString;
 }
 ```
