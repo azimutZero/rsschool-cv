@@ -7,3 +7,9 @@ e-mail:         shestak6@yandex.ru
 discord:        Tony(@azimutZero)
 
 ---
+### About myself:
+I was born and live in the city of Minsk. I have been fond of computer technologies since childhood. Very long ago, more than 15 years ago, was fond of html/css, but the line of work has changed and I have not achieved success. Now I believe in my power and that I will become a skilled Frontend developer.
+In my professional sphere my main goal is not to stop, develop and improve my skills. I consider my strengths to be the desire to find or invent non-standard ways of solving problems. I am an employee of the IT department of one of the leading banks in the Republic of Belarus.
+I have experience of working both in a team and individually.
+
+
